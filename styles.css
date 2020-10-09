@@ -210,7 +210,7 @@ body::before {
     font-family: monospace;
     background-color: lightgreen;
     border: 0;
-    right: 320px;
+    left: 320px;
     cursor: pointer;
     
 }  
